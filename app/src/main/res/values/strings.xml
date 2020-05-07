@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Parcial2</string>
+    <string name="action_listar">Listar</string>
+    <string name="action_actualizar">Actualizar</string>
+    <string name="action_eliminar">Eliminar</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="texto_encuesta_nueva">Nueva Encuesta</string>
+    <string name="texto_encuesta_actualizar">Actualizar Encuesta</string>
+
+    <string name="texto_cedula">Cedula:</string>
+    <string name="texto_nombre">Nombre:</string>
+    <string name="texto_estrato">Estrato:</string>
+    <string name="texto_salario">Salario:</string>
+    <string name="texto_nivel_educativo">Nivel Educativo:</string>
+
+    <string name="boton_guardar">GUARDAR</string>
+    <string name="boton_listado">LISTADO</string>
+    <string name="boton_actualizar">ACTUALIZAR</string>
+</resources>

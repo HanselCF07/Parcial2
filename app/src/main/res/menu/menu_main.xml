@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.bdestudiante.MainActivity">
+    <item
+        android:id="@+id/action_listar"
+        android:orderInCategory="100"
+        android:title="@string/action_listar"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_actualizar"
+        android:title="@string/action_actualizar" />
+</menu>
